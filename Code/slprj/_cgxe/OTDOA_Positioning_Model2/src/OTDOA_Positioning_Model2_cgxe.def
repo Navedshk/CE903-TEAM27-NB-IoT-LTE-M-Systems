@@ -1,0 +1,4 @@
+LIBRARY OTDOA_Positioning_Model2_cgxe.mexw64
+EXPORTS
+mexFunction
+mexfilerequiredapiversion
